@@ -1,0 +1,7 @@
+
+# Data Sets
+test/
+train/
+
+# wandb runs
+wandb/
